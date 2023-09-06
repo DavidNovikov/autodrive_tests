@@ -8,3 +8,9 @@ Note:
 - Point cloud files (.bin) are given in the form of N x 4 with numbers in np.float32 format
 - The images corresponding to each point cloud is provided as a reference
 - Bounding box files have table headings. X is forward, Y is left, Z is upwards. You can assume there is only 1 rotation for the bounding box which is around the Z axis.
+
+Important Updates: 
+- We highly recommend completing the challenge using the plotly library
+- Consider using Scatter3D and adjusting the aspect ratio when plotting
+- For a better visualization, change the color of the points based on the distance
+- Plotting bounding boxes are now optional but if you can figure it out on plotly, that'll be great
