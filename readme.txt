@@ -14,7 +14,23 @@ Tasks:
 
 Requirements:
 Must use Python. Approved packages: OpenCV, scikit-image, PyTorch, numpy, pandas, matplotlib, open3d, plotly.
-For tasks 1-6 visualization is helpful to demonstrate the approach and/or results.
+For tasks 1-6 visualization is helpful and/or required to demonstrate the approach and/or results.
 Deep learning models are only accepted for task 2, if you use a deep learning model for any other tasks, the response will not be considered.
-Short type-up to discuss approach, solution, and difficulties. If unable to complete one of the problems, explain what was completed, what approaches were tried, and what you would do differently.
-The code should be readable.
+Short type-up in notes.txt to discuss approach, solution, and difficulties for each task. If unable to complete one of the problems, explain what was completed, what approaches were tried, and what you would do differently.
+The code should be readable (this includes variable names and comments when needed).
+Please have your code setup to write the results and visualizations into the results directory under each task when appropriate to do so
+
+How you will be accessed:
+We will look at your results, code, and notes.txt files under each task to see what work you did and how you approached the problem.
+We will run your code for each task.
+Typically, if it is easy to understand what you did, you're on the right track (this applies to code and how you choose to communicate your results)
+
+Notes:
+Why the lack of using 'AI' models? - The majority of our work is not related to using the model directly, rather pre and post processing work and performing analysis on results. Our tasks reflect typical tasks we do
+What format should we use for our results? - Clearly display your results in a way that shows you completed the task. If you think you've sufficiently shown you results and communicated your approach, you should be good to go.
+
+Submission:
+Please use the following link to submit a zip file of this directory and all subfolders
+
+https://forms.gle/kTTipaZKhb49wpM57
+
